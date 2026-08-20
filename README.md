@@ -8,7 +8,7 @@ Welcome to your team's official codebase for the current development cycle.
 
 ### 📁 Source Code by Class Track
 * **Python Track:** [`/python/main.py`](./python/main.py)
-* **C# / CIS151 Track:** [`/csharp/Program.cs`](./csharp/Program.cs)
+* **C# / CIS151 Track:** [`/sharp/Program.cs`](./sharp/Program.cs)
 * **Java / AP CSA Track:** [`/java/KioskApp.java`](./java/KioskApp.java)
 * **React / Mobile Track:** [`/react-js/App.js`](./react-js/App.js)
 
