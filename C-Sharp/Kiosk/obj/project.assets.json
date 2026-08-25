@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\sharp\\Kiosk\\Kiosk.csproj",
+      "projectUniqueName": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\Kiosk.csproj",
       "projectName": "Kiosk",
-      "projectPath": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\sharp\\Kiosk\\Kiosk.csproj",
+      "projectPath": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\Kiosk.csproj",
       "packagesPath": "C:\\Users\\iwciu990\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\sharp\\Kiosk\\obj\\",
+      "outputPath": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iwciu990\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2,15 +2,18 @@
 // Track: C# / CIS151 Software Engineering
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.Transactions;
 
 namespace BCHSoftware
 {
     class Program
     {
+
         static void Main(string[] args)
         {
-
             Console.WriteLine("========================================");
+            Console.WriteLine("Enter Email");
+            Console.ReadLine();
             Console.WriteLine("      BCH ENTERPRISE VISITOR KIOSK      ");
             Console.WriteLine("========================================");
 
