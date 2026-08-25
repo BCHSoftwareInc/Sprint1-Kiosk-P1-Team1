@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\sharp\\Kiosk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA729FB-D640-43D9-B38C-01628D63E1E0}|Kiosk.csproj|c:\\users\\iwciu990\\desktop\\repos\\sprint1-kiosk-p1-team1\\sharp\\kiosk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA729FB-D640-43D9-B38C-01628D63E1E0}|Kiosk.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\sharp\\Kiosk\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\sharp\\Kiosk\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:48:49.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
