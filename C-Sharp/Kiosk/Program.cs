@@ -12,9 +12,13 @@ namespace BCHSoftware
         static void Main(string[] args)
         {
             Console.WriteLine("========================================");
-            Console.WriteLine("Enter Email");
-            Console.ReadLine();
+            Console.WriteLine("Enter Email:");
+
+            string email = Console.ReadLine();
+
+            Console.WriteLine("========================================");
             Console.WriteLine("      BCH ENTERPRISE VISITOR KIOSK      ");
+            Console.WriteLine($"Email: {email}");
             Console.WriteLine("========================================");
 
             // SE: Use Console.ReadLine() to capture 4 data fields
