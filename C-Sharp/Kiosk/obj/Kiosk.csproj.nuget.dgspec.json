@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\Kiosk.csproj": {}
+    "C:\\Users\\cagoo335\\Desktop\\SY26-27\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\Kiosk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\Kiosk.csproj": {
+    "C:\\Users\\cagoo335\\Desktop\\SY26-27\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\Kiosk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\Kiosk.csproj",
+        "projectUniqueName": "C:\\Users\\cagoo335\\Desktop\\SY26-27\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\Kiosk.csproj",
         "projectName": "Kiosk",
-        "projectPath": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\Kiosk.csproj",
-        "packagesPath": "C:\\Users\\iwciu990\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iwciu990\\Desktop\\Repos\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\obj\\",
+        "projectPath": "C:\\Users\\cagoo335\\Desktop\\SY26-27\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\Kiosk.csproj",
+        "packagesPath": "C:\\Users\\cagoo335\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cagoo335\\Desktop\\SY26-27\\Sprint1-Kiosk-P1-Team1\\C-Sharp\\Kiosk\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\iwciu990\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cagoo335\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
